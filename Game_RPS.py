@@ -9,6 +9,7 @@ while True:
     while player not in crazy:
         player = input('select rock, paper or scissors: ').lower()
 #this is code
+    # this is vamshi's code 
     if computer == player:
         print(computer)
         print(player)
